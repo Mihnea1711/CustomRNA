@@ -41,3 +41,4 @@ This project focuses on developing an artificial neural network system capable o
 
 ![image](images/img1.png)
 ![image](images/img2.png)
+![image](images/img3.png)
